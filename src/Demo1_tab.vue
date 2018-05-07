@@ -11,7 +11,7 @@
         <template slot="title"><i class="el-icon-message"></i>业主管理</template>
         <el-menu-item-group>
           <el-menu-item index="1-1" @click="addTab(editableTabsValue2)">业主管理</el-menu-item>
-          <el-menu-item index="1-2">业主拜访</el-menu-item>
+          <el-menu-item index="1-2">业主拜访ggggg</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
     </el-menu>
